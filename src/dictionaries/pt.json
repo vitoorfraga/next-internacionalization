@@ -1,0 +1,17 @@
+{
+  "dashboard": {
+    "your_orders": {
+      "title": "Seus Pedidos",
+      "description": "Apresentando nosso painel de pedidos dinâmico para uma gestão perfeita e análise perspicaz.",
+      "button": "Criar Novo Pedido"
+    },
+    "week": {
+      "title": "Esta Semana",
+      "description": "em relação à semana passada"
+    },
+    "month": {
+      "title": "Este Mês",
+      "description": "em relação ao mês passado"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "dashboard": {
+    "your_orders": {
+      "title": "Your Orders",
+      "description": "Introducing Our Dynamic Orders Dashboard for Seamless Management and Insightful Analysis.",
+      "button": "Create New Order"
+    },
+    "week": {
+      "title": "This Week",
+      "description": "from last week"
+    },
+    "month": {
+      "title": "This Month",
+      "description": "from last month"
+    }
+  }
+}

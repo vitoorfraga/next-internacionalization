@@ -1,0 +1,17 @@
+{
+  "dashboard": {
+    "your_orders": {
+      "title": "Uw bestellingen",
+      "description": "Introductie van ons dynamische orderdashboard voor naadloos beheer en inzichtelijke analyse.",
+      "button": "Nieuwe Order Maken"
+    },
+    "week": {
+      "title": "Deze Week",
+      "description": "ten opzichte van vorige week"
+    },
+    "month": {
+      "title": "Deze Maand",
+      "description": "ten opzichte van vorige maand"
+    }
+  }
+}
